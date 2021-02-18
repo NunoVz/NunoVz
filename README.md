@@ -1,5 +1,7 @@
 # Introduction
 
+-Studying Computer Science in FCTUC
+
 -[Twitter](https://twitter.com/Nuno_Vz)
 
 -[Instagram](https://www.instagram.com/nuno.vasques/)
