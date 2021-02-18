@@ -6,7 +6,7 @@
 
 **Objetives
 
-- [ ] Make a Discord Bot
+- [x] Make a Discord Bot
 - [ ] A website
 - [ ] Game in Unity
 - [ ] CSGO Server
