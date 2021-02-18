@@ -4,7 +4,7 @@
 -Discord:𝕲𝖆𝖒𝖊𝖙𝖍𝖔𝖗#4794
 -Languages(C,Py)
 
-##Objetives
+## Objetives
 
 - [x] Make a Discord Bot
 - [ ] A website
