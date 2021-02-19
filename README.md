@@ -13,6 +13,6 @@
 ## Objetives
 
 - [x] Make a Discord Bot
-- [ ] A website
+- [x] A website
 - [ ] Game in Unity
 - [ ] CSGO Server
