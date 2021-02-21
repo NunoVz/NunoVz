@@ -8,7 +8,7 @@
 
 -Discord:𝕲𝖆𝖒𝖊𝖙𝖍𝖔𝖗#4794
 
--Languages(C,Py,Html,css)
+-Languages(C,Py,Html,Css)
 
 ## Objetives
 
