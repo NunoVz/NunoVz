@@ -15,4 +15,4 @@
 - [x] Make a Discord Bot
 - [x] A website
 - [ ] Game in Unity
-- [ ] CSGO Server
+- [ ] Passar a AM
