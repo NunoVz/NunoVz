@@ -6,7 +6,7 @@
 
 -[Instagram](https://www.instagram.com/nuno.vasques/)
 
--Discord:𝕲𝖆𝖒𝖊𝖙𝖍𝖔𝖗#4794
+-Discord:𝓥𝓪𝓼𝓺𝓾𝓮𝓼4794
 
 -Languages(C,Py)
 
