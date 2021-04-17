@@ -6,7 +6,7 @@
 
 -[Instagram](https://www.instagram.com/nuno.vasques/)
 
--Discord:𝓥𝓪𝓼𝓺𝓾𝓮𝓼4794
+-Discord:𝓥𝓪𝓼𝓺𝓾𝓮𝓼#4794
 
 -Languages(C,Py)
 
