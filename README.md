@@ -12,7 +12,4 @@
 
 ## Objetives
 
-- [x] Make a Discord Bot
-- [x] A website
-- [ ] Game in Unity
 - [ ] Passar a AM
