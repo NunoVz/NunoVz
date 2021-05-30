@@ -8,7 +8,7 @@
 
 -Discord:𝓥𝓪𝓼𝓺𝓾𝓮𝓼#4794
 
--Languages(C,Py)
+-Languages(C, Py, Javascript)
 
 ## Objetives
 
