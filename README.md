@@ -10,6 +10,8 @@
 
 -Languages(C, Py, Java, Javascript)
 
+- Some Experience in react and node.js
+
 ## Objetives
 
 - [ ] Passar a AM
