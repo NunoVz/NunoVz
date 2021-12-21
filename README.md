@@ -1,14 +1,14 @@
 # Introduction
 
--Studying Computer Science in FCTUC
+- Studying Computer Science in FCTUC
 
--[Twitter](https://twitter.com/Nuno_Vz)
+- [Twitter](https://twitter.com/Nuno_Vz)
 
--[Instagram](https://www.instagram.com/nuno.vasques/)
+- [Instagram](https://www.instagram.com/nuno.vasques/)
 
--Discord:𝓥𝓪𝓼𝓺𝓾𝓮𝓼#4794
+- Discord:𝓥𝓪𝓼𝓺𝓾𝓮𝓼#4794
 
--Languages(C, Py, Java, Javascript)
+- Languages(C, Py, Java, Javascript)
 
 - Some Experience in react and node.js
 
