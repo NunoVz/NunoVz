@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="260">
 
 <p>
-<em>__Studying Computer Science at __<a href="https://www.uc.pt/fctuc">FCTUC </a><img src="https://media.giphy.com/media/jPAdK8Nfzzwt2/giphy.gif" width="30">
+<em>Studying Computer Science at <a href="https://www.uc.pt/fctuc">FCTUC </a><img src="https://media.giphy.com/media/jPAdK8Nfzzwt2/giphy.gif" width="30">
 </br>
 Junior Developer at <a href="https://jeknowledge.pt/">jeKnowledge </a>
 </em></p>
