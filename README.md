@@ -1,4 +1,4 @@
-<h2> Hi, I'm Vasques! <img src="https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif" width="50">
+<h2> Hi, I'm Vasques! <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="50">
 <h3/>
 
 <img align='right' src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="260">
