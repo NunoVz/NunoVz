@@ -2,7 +2,7 @@
 <h3/>
 
 <img align='right' src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="240">
-<p><em>**Studying Computer Science at** <a href="https://www.uc.pt/fctuc">**FCTUC** </a><img src="https://media.giphy.com/media/jPAdK8Nfzzwt2/giphy.gif" width="30"></br>**Junior Developer at** <a href="https://jeknowledge.pt/">**jeKnowledge** </a>
+<p><em>Studying Computer Science at <a href="https://www.uc.pt/fctuc">FCTUC </a><img src="https://media.giphy.com/media/jPAdK8Nfzzwt2/giphy.gif" width="30"></br>Junior Developer at <a href="https://jeknowledge.pt/">jeKnowledge </a>
 </em></p>
 
 
@@ -11,7 +11,7 @@
 [![GitHub NunoVz](https://img.shields.io/github/followers/NunoVz?label=follow&style=social)](https://github.com/NunoVz)
 
 
-####Here is more stuff about me:
+Here is more stuff about me:
 
 
 ```javascript
