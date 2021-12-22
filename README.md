@@ -1,7 +1,7 @@
 <h2> Hi, I'm Vasques! <img src="https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif" width="50">
 <h3/>
 
-<img align='right' src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="240">
+<img align='right' src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="260">
 <p><em>Studying Computer Science at <a href="https://www.uc.pt/fctuc">FCTUC </a><img src="https://media.giphy.com/media/jPAdK8Nfzzwt2/giphy.gif" width="30"></br>Junior Developer at <a href="https://jeknowledge.pt/">jeKnowledge </a>
 </em></p>
 
@@ -10,7 +10,7 @@
 [![Linkedin: nunovasques](https://img.shields.io/badge/-nunovasques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nunovasques/)](https://www.linkedin.com/in/nunovasques/)
 [![GitHub NunoVz](https://img.shields.io/github/followers/NunoVz?label=follow&style=social)](https://github.com/NunoVz)
 
-
+<br/>
 Here is more stuff about me:
 
 
