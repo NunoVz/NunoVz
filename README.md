@@ -1,8 +1,11 @@
 <h2> Hi, I'm Vasques! <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="50">
 <h3/>
-
 <img align='right' src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="260">
-<p><em>Studying Computer Science at <a href="https://www.uc.pt/fctuc">FCTUC </a><img src="https://media.giphy.com/media/jPAdK8Nfzzwt2/giphy.gif" width="30"></br>Junior Developer at <a href="https://jeknowledge.pt/">jeKnowledge </a>
+
+<p>
+<em>Studying Computer Science at <a href="https://www.uc.pt/fctuc">FCTUC </a><img src="https://media.giphy.com/media/jPAdK8Nfzzwt2/giphy.gif" width="30">
+</br>
+Junior Developer at <a href="https://jeknowledge.pt/">jeKnowledge </a>
 </em></p>
 
 
