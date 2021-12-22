@@ -20,6 +20,6 @@ const Vasques = {
 }
 ```
 <br/>
-<img src="https://acegif.com/wp-content/gif/beer-67.gif" width="60"> <em>Hello if you see me, pay me a beer :)</em>
+<em>If any of my reps help you, be sure to pay me a beer :)</em>
 
 ---
