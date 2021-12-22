@@ -8,11 +8,10 @@
 
 [![Twitter: Nuno_Vz](https://img.shields.io/twitter/follow/Nuno_Vz?style=social)](https://twitter.com/Nuno_Vz)
 [![Linkedin: nunovasques](https://img.shields.io/badge/-nunovasques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nunovasques/)](https://www.linkedin.com/in/nunovasques/)
-[![GitHub NunoVz](https://img.shields.io/github/followers/NunoVz?label=follow&style=social)](https://github.com/NunoVz)
+[![GitHub NunoVz](https://img.shields.io/github/followers/NunoVz?label=follow&style=social)](https://github.com/NunoVz)\
 
-<br/>
-Here is more stuff about me:
-<br/>
+Here is more stuff about me:\
+
 
 ```javascript
 const Vasques = {
