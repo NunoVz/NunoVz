@@ -4,7 +4,7 @@
 <p>
 <em>Studying Computer Science at <a href="https://www.uc.pt/fctuc">FCTUC </a><img src="https://media.giphy.com/media/jPAdK8Nfzzwt2/giphy.gif" width="30">
 </br>
-Junior Developer at <a href="https://jeknowledge.pt/">jeKnowledge </a>
+Senior Developer at <a href="https://jeknowledge.pt/">jeKnowledge </a>
 </em></p>
 
 
