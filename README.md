@@ -17,8 +17,7 @@ Senior Developer at <a href="https://jeknowledge.pt/">jeKnowledge </a>
 ```javascript
 const Vasques = {
   code: [C, Python, HTML, CSS, Java, Javascript],
-  tools: [React, Node],
-  challenge: "Tentar passar a AM1"
+  tools: [React, Node]
 }
 ```
 <br/>
