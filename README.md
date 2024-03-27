@@ -3,6 +3,7 @@
 
 <p>
 <em>Taking a Master Degree in Cybersecurity at <a href="https://www.uc.pt/fctuc">FCTUC </a><img src="https://media.giphy.com/media/jPAdK8Nfzzwt2/giphy.gif" width="30">
+<br/>
 Vice-President at <a href="https://nei.dei.uc.pt/">NEI/AAC </a>
 </em></p>
 
